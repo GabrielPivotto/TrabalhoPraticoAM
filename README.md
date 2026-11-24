@@ -1,6 +1,6 @@
 # TrabalhoPraticoAM
 
-Integrantes: Gabriel Andreis Pivotto, Giordano Fraga Faciolli, Pedro Duarte dos Santos 
+Integrantes: Gabriel Andreis Pivotto, Giordano Fraga Faccioli, Pedro Duarte dos Santos 
 
 Algoritmos escolhidos para a tarefa A:
 - HDBSCAN
